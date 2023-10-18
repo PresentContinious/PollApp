@@ -1,0 +1,15 @@
+/Users/maxzel/RiderProjects/PollApp/Core/bin/Debug/net7.0/Core.deps.json
+/Users/maxzel/RiderProjects/PollApp/Core/bin/Debug/net7.0/Core.dll
+/Users/maxzel/RiderProjects/PollApp/Core/bin/Debug/net7.0/Core.pdb
+/Users/maxzel/RiderProjects/PollApp/Core/bin/Debug/net7.0/DataAccess.dll
+/Users/maxzel/RiderProjects/PollApp/Core/bin/Debug/net7.0/DataAccess.pdb
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.csproj.CopyComplete
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.dll
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/Core.pdb
+/Users/maxzel/RiderProjects/PollApp/Core/obj/Debug/net7.0/ref/Core.dll

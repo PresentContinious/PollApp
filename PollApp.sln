@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollApp", "PollApp\PollApp.csproj", "{98155626-20CE-4115-9B58-10A09E040A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{AC6DA021-3698-4B59-A82D-A9CF39C1CABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{374F08E7-E587-40BD-8521-D8C990FC16D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98155626-20CE-4115-9B58-10A09E040A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98155626-20CE-4115-9B58-10A09E040A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98155626-20CE-4115-9B58-10A09E040A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98155626-20CE-4115-9B58-10A09E040A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6DA021-3698-4B59-A82D-A9CF39C1CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6DA021-3698-4B59-A82D-A9CF39C1CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6DA021-3698-4B59-A82D-A9CF39C1CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6DA021-3698-4B59-A82D-A9CF39C1CABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374F08E7-E587-40BD-8521-D8C990FC16D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374F08E7-E587-40BD-8521-D8C990FC16D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374F08E7-E587-40BD-8521-D8C990FC16D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374F08E7-E587-40BD-8521-D8C990FC16D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
